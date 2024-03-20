@@ -1,0 +1,10 @@
+{
+  "name": "@envframe/replete",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Orchestrate frontend data and data fetching, with RESTful approach.",
+  "main": "index.js",
+  "repository": "https://github.com/envframe/replete",
+  "author": "Jonny Doyle",
+  "license": "MIT"
+}
